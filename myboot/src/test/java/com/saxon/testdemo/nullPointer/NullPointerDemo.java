@@ -18,6 +18,7 @@ public class NullPointerDemo {
 		}
 	}
 	
+	
 	@Test
 	public void testParseBoolean() {
 		String a = "abc";
