@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: myboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Think
+Implementation-Vendor-Id: com.saxon
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/myboot
+Created-By: Maven Integration for Eclipse
+
